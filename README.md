@@ -344,27 +344,7 @@ Perform Predictive Analytics.
 Develop a real-time dashboard using APIs.
 
 Create a web-based analytics application.
-## Conclusion
 
-This project successfully analyzed the Global Banking & Financial Access dataset using Python and Power BI.
-
-Data preprocessing, feature engineering, statistical analysis, and visualization helped identify banking trends across countries and years. The interactive dashboard provides meaningful business insights that support data-driven decision-making.
-
-The project demonstrates practical skills in Python, Pandas, NumPy, Data Cleaning, Feature Engineering, Statistical Analysis, Exploratory Data Analysis, Data Visualization, and Power BI, making it a strong end-to-end Data Analytics portfolio project suitable for GitHub, internships, and Data Analyst interviews.
-## Conclusion
-
-This project successfully analyzed the Global Banking & Financial Access dataset using Python and Power BI.
-
-Data preprocessing, feature engineering, statistical analysis, and visualization helped identify banking trends across countries and years. The interactive dashboard provides meaningful business insights that support data-driven decision-making.
-
-The project demonstrates practical skills in Python, Pandas, NumPy, Data Cleaning, Feature Engineering, Statistical Analysis, Exploratory Data Analysis, Data Visualization, and Power BI, making it a strong end-to-end Data Analytics portfolio project suitable for GitHub, internships, and Data Analyst interviews.
-## Conclusion
-
-This project successfully analyzed the Global Banking & Financial Access dataset using Python and Power BI.
-
-Data preprocessing, feature engineering, statistical analysis, and visualization helped identify banking trends across countries and years. The interactive dashboard provides meaningful business insights that support data-driven decision-making.
-
-The project demonstrates practical skills in Python, Pandas, NumPy, Data Cleaning, Feature Engineering, Statistical Analysis, Exploratory Data Analysis, Data Visualization, and Power BI, making it a strong end-to-end Data Analytics portfolio project suitable for GitHub, internships, and Data Analyst interviews.
 ## Conclusion
 
 This project successfully analyzed the Global Banking & Financial Access dataset using Python and Power BI.
