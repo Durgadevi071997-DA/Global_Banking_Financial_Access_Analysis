@@ -105,11 +105,10 @@ Statistical Analysis
 
 GroupBy Analysis
 
-Pivot Table Analysis
-
 Exploratory Data Analysis
 
 Business Visualization
+
 ## Exploratory Data Analysis (EDA)
 
 The initial inspection included:
@@ -127,25 +126,7 @@ Unique value verification
 Statistical summary
 
 EDA helped understand the distribution, trends, and quality of the dataset.
-## Statistical Analysis
 
-The following statistical measures were calculated:
-
-Mean
-
-Median
-
-Mode
-
-Minimum Value
-
-Maximum Value
-
-Variance
-
-Standard Deviation
-
-These measures helped understand the central tendency, variability, and distribution of banking values.
 ## Data Visualization
 
 Visualization techniques were used to represent banking data graphically.
@@ -162,11 +143,14 @@ Interpretation:
 
 Shows the overall distribution and identifies skewness.
 
-Box Plot – Banking Values
+Log Distribution of Banking Values
 
-Interpretation:
+Interpretation
 
-Identifies median, spread, and outliers.
+* Most banking values are concentrated between **Log(Value) 5–8**.
+* Higher values occur less frequently.
+* Log transformation makes the distribution easier to understand.
+
 
 Count Plot – Top 10 Countries
 
@@ -182,21 +166,15 @@ Analysis Performed
 
 Year vs Average Banking Value
 
-Interpretation:
+Banking values increased from 2017–2024, with the highest average recorded in 2024.
 
-Shows banking trends across different years.
+Top 10 Countries by Average Banking Value
 
-Country vs Average Banking Value
-
-Interpretation:
-
-Compares banking performance among countries.
+Finding: Vietnam recorded the highest average banking value, followed by Iran and Indonesia.
 
 Financial Sector vs Total Banking Value
 
-Interpretation:
-
-Shows how different financial sectors contribute to total banking values.
+Commercial Banks contributed the highest total banking value among all sectors.
 
 3. Multivariate Analysis
 
@@ -204,23 +182,15 @@ Performed to analyze relationships among multiple variables.
 
 Analysis Performed
 
-Year + Banking Level (Stacked Bar Chart)
+Banking Level Trend by Year
 
-Interpretation:
+Very High banking level remained the dominant category throughout the years.
 
-Shows the distribution of banking levels across years.
+Country-wise Performance
 
-Country + Performance (Grouped Bar Chart)
+Compare country-wise dataset representation.
+Bangladesh and Pakistan had the highest number of records in the dataset.
 
-Interpretation:
-
-Compares Above Average and Below Average performance across countries.
-
-Year + Value + Performance (Scatter Plot)
-
-Interpretation:
-
-Shows how banking values vary across years based on performance levels.
 ## Summary of Findings
 
 Banking values vary significantly across countries.
@@ -233,6 +203,7 @@ Financial sectors contribute differently to banking performance.
 Outliers indicate exceptionally high banking activity.
 
 Feature engineering improved business interpretation.
+
 ## Types of Analysis
 
 Summarizes historical banking data.
@@ -282,6 +253,7 @@ Examples:
 Improve financial inclusion in low-performing countries
 Recommend banking expansion strategies
 Support financial policy planning
+
 ## Power BI Dashboard
 
 The interactive Power BI dashboard includes:
@@ -320,6 +292,7 @@ Interactive dashboards enable faster business decision-making.
 The project supports financial planning and policy development.
 
 Data-driven insights help improve global financial access.
+
 ## Recommendations
 
 Improve financial inclusion in low-performing countries.
@@ -331,6 +304,7 @@ Monitor banking trends regularly.
 Expand banking services in underserved regions.
 
 Use interactive dashboards for continuous monitoring.
+
 ## Future Enhancements and Suggestions
 
 Connect the project with SQL Database.
@@ -354,7 +328,8 @@ Data preprocessing, feature engineering, statistical analysis, and visualization
 The project demonstrates practical skills in Python, Pandas, NumPy, Data Cleaning, Feature Engineering, Statistical Analysis, Exploratory Data Analysis, Data Visualization, and Power BI, making it a strong end-to-end Data Analytics portfolio project suitable for GitHub, internships, and Data Analyst interviews.
 ## Screenshots
 
-<img width="626" height="341" alt="Screenshot 2026-07-21 111803" src="https://github.com/user-attachments/assets/ec842d19-d574-4931-bfe0-a6f11b22843b" />
+<img width="616" height="342" alt="Screenshot 2026-07-24 131517" src="https://github.com/user-attachments/assets/20f6b513-b723-45e2-b776-c8d85f347e19" />
+
 
 
 <img width="607" height="338" alt="Screenshot 2026-07-21 111847" src="https://github.com/user-attachments/assets/7dea4f36-c0c5-456f-bf01-2378056c12b4" />
