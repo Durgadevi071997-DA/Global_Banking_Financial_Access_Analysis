@@ -131,19 +131,19 @@ EDA helped understand the distribution, trends, and quality of the dataset.
 
 Visualization techniques were used to represent banking data graphically.
 
-1. Univariate Analysis
+## 1. Univariate Analysis
 
 Performed to analyze one variable at a time.
 
 Analysis Performed
 
-Histogram – Distribution of Banking Values
+## Histogram – Distribution of Banking Values
 
 Interpretation:
 
 Shows the overall distribution and identifies skewness.
 
-Log Distribution of Banking Values
+## Log Distribution of Banking Values
 
 Interpretation
 
@@ -152,41 +152,41 @@ Interpretation
 * Log transformation makes the distribution easier to understand.
 
 
-Count Plot – Top 10 Countries
+## Count Plot – Top 10 Countries
 
 Interpretation:
 
 Shows countries with the highest number of records.
 
-2. Bivariate Analysis
+## 2. Bivariate Analysis
 
 Performed to study relationships between two variables.
 
 Analysis Performed
 
-Year vs Average Banking Value
+## Year vs Average Banking Value
 
 Banking values increased from 2017–2024, with the highest average recorded in 2024.
 
-Top 10 Countries by Average Banking Value
+## Top 10 Countries by Average Banking Value
 
-Finding: Vietnam recorded the highest average banking value, followed by Iran and Indonesia.
+Vietnam recorded the highest average banking value, followed by Iran and Indonesia.
 
-Financial Sector vs Total Banking Value
+## Financial Sector vs Total Banking Value
 
 Commercial Banks contributed the highest total banking value among all sectors.
 
-3. Multivariate Analysis
+## 3. Multivariate Analysis
 
 Performed to analyze relationships among multiple variables.
 
 Analysis Performed
 
-Banking Level Trend by Year
+## Banking Level Trend by Year
 
 Very High banking level remained the dominant category throughout the years.
 
-Country-wise Performance
+## Country-wise Performance
 
 Compare country-wise dataset representation.
 Bangladesh and Pakistan had the highest number of records in the dataset.
@@ -332,7 +332,8 @@ The project demonstrates practical skills in Python, Pandas, NumPy, Data Cleanin
 
 
 
-<img width="607" height="338" alt="Screenshot 2026-07-21 111847" src="https://github.com/user-attachments/assets/7dea4f36-c0c5-456f-bf01-2378056c12b4" />
+<img width="616" height="343" alt="Screenshot 2026-07-24 131723" src="https://github.com/user-attachments/assets/7fd1aab1-6352-4915-a30d-7a224907dabb" />
+
 
 
 
