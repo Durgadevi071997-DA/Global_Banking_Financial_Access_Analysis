@@ -137,13 +137,13 @@ Performed to analyze one variable at a time.
 
 Analysis Performed
 
-## A.Histogram – Distribution of Banking Values
+# A. Histogram – Distribution of Banking Values
 
 Interpretation:
 
 Shows the overall distribution and identifies skewness.
 
-## B.Log Distribution of Banking Values
+# B. Log Distribution of Banking Values
 
 Interpretation
 
@@ -152,7 +152,7 @@ Interpretation
 * Log transformation makes the distribution easier to understand.
 
 
-## C.Count Plot – Top 10 Countries
+# C. Count Plot – Top 10 Countries
 
 Interpretation:
 
@@ -164,15 +164,15 @@ Performed to study relationships between two variables.
 
 Analysis Performed
 
-## A.Year vs Average Banking Value
+# A. Year vs Average Banking Value
 
 Banking values increased from 2017–2024, with the highest average recorded in 2024.
 
-## B.Top 10 Countries by Average Banking Value
+# B. Top 10 Countries by Average Banking Value
 
 Vietnam recorded the highest average banking value, followed by Iran and Indonesia.
 
-## C.Financial Sector vs Total Banking Value
+# C. Financial Sector vs Total Banking Value
 
 Commercial Banks contributed the highest total banking value among all sectors.
 
@@ -182,11 +182,11 @@ Performed to analyze relationships among multiple variables.
 
 Analysis Performed
 
-## A.Banking Level Trend by Year
+# A. Banking Level Trend by Year
 
 Very High banking level remained the dominant category throughout the years.
 
-## B.Country-wise Performance
+# B. Country-wise Performance
 
 Compare country-wise dataset representation.
 Bangladesh and Pakistan had the highest number of records in the dataset.
