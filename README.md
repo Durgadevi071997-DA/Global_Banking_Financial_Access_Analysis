@@ -137,7 +137,7 @@ Performed to analyze one variable at a time.
 
 Analysis Performed
 
-# A. Histogram – Distribution of Banking Values
+## A. Histogram – Distribution of Banking Values
 
 Interpretation:
 
