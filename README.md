@@ -331,16 +331,6 @@ The project demonstrates practical skills in Python, Pandas, NumPy, Data Cleanin
 <img width="616" height="342" alt="Screenshot 2026-07-24 131517" src="https://github.com/user-attachments/assets/20f6b513-b723-45e2-b776-c8d85f347e19" />
 
 
-
-<img width="616" height="343" alt="Screenshot 2026-07-24 131723" src="https://github.com/user-attachments/assets/7fd1aab1-6352-4915-a30d-7a224907dabb" />
-
-
-
-
-
-
-
-
 ## Author
 
 Durgadevi
